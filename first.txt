@@ -1,1 +1,3 @@
 Este es el primer arvivo para agregar a Git
+
+estos cambios son recientes, se deben incluir en Git
